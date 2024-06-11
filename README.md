@@ -20,6 +20,8 @@ count_vowels("Prediction") ➞ 4 # 4 vowels
 - All test cases are one word and only contain letters
 
 # My Results / conclusion:
+![image](https://github.com/Kyren223/vowel_couhter/assets/52241860/9b72839a-05b7-4c77-946f-45de36e0d4d4)
+
 * Note, when saying "identical" I mean with a
   small variation that is not significant enough to be a factor.
   this is usually caused by memory layout differences, which can be ignored and considered "identical".
